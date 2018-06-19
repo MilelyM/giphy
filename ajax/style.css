@@ -1,0 +1,47 @@
+body{
+    background-color:  #c0c5ce
+}
+.container{
+    width: 60%;
+    margin:0 auto;
+    text-align: center;
+    background-color: #65737e;
+    padding: 4%;
+}
+.container img{
+    max-width: 40%;
+
+
+}
+#elementos .elemento{
+    margin: 10px;
+    border: 2em solid #c0c5ce;
+    display: block;
+    padding:  10%;
+    text-align: letf;
+    position: relative;
+    margin: 2%;
+}
+Elementos.elemento a{
+    font-family: 'Raleway', sans-serif;
+    display: inline-block;
+    padding: 20em;
+    position: absolute;
+    top:40%;
+    color:white;
+    text-decoration:none;
+    text-align: center;
+    font-size: 16em;
+}
+h1{
+    font-size: 500%;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: aqua;
+    color: rgb(82, 5, 82);
+
+}
+#gif-text{
+    width: 210%;
+
+}
